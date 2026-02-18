@@ -19,7 +19,7 @@ https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Goog
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/
+git clone https://github.com/its-harsh-dev/Resume-ATS-Tracking.git/
 ```
 
 2. Install dependencies:
@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or issues, feel free to reach out to the maintainers:
 
-Maintainer: Prajwal Krishna
-Email: prajwalgbdr03@gmail.com
+Maintainer: Harsh Singh
+Email: inbox.harshsingh@gmail.com
 
 Happy recruiting with Gemini Pro ATS!
